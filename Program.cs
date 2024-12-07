@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var CurrentDay = new Day2();
+CurrentDay.Part1();
+CurrentDay.Part2();
